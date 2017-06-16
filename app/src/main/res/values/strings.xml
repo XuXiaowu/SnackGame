@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SnackGame</string>
+
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="resume">resume</string>
+    <string name="restart">restart</string>
+    <string name="stop">stop</string>
+    <string name="faster">faster</string>
+    <string name="slowly">slowly</string>
+    <string name="level">level</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="setting">setting</string>
+
+</resources>
